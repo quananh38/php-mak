@@ -1,0 +1,15 @@
+# PHP PDF Generator
+
+Generate PDF files using the FPDF library.
+
+## Features
+- Create PDF documents with headers, footers, and content.
+
+## Installation
+1. Clone the repository.
+2. Download the FPDF library from [http://www.fpdf.org/](http://www.fpdf.org/) and place it in the project directory.
+
+## Usage
+Run the script using PHP:
+```bash
+php pdf.php
